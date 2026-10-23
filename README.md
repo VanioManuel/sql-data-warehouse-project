@@ -36,4 +36,4 @@ A análise será centrada em três áreas principais:
 No final do projeto, pretende-se ter uma base de dados organizada e integrada, acompanhada de análises que permitam compreender melhor o comportamento dos clientes, o desempenho dos produtos e a evolução das vendas. Estas informações servirão de apoio à tomada de decisões e ao planeamento das estratégias da empresa.
 
 # About me
-  Olá, sou Vânio Manuel, da área de Tecnologias de Informação, e pretendo aprofundar os meus conhecimentos em análise e engenharia de dados. Divirt-me organizar, estruturar e analisar informações com SQL Server, transformando dados em soluções que otimizem processos, melhorem os resultados das empresas e apoiem decisões estratégicas.
+  Olá, sou Vânio Manuel, da área de Tecnologias de Informação, e pretendo aprofundar os meus conhecimentos em análise e engenharia de dados. Divirto-me à organizar, estruturar e analisar informações com SQL Server, e varias outras tools de manipulação, transformação de dados em soluções que otimizem processos, melhorem os resultados das empresas e apoiem decisões estratégicas.
